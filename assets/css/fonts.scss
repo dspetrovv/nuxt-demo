@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "Inter";
+  src: url("../font/Inter-Regular.ttf");
+}
+
+@mixin font-1 {
+  font-size: 24px !important;
+  line-height: 28px !important;
+  font-weight: 600 !important;
+}
+
+@mixin font-2 {
+  font-size: 24px !important;
+  line-height: 20px !important;
+  font-weight: 600 !important;
+}
+
+@mixin font-3 {
+  font-size: 15px !important;
+  line-height: 24px !important;
+  font-weight: 500 !important;
+}
+
+@mixin font-4 {
+  font-size: 15px !important;
+  line-height: 24px !important;
+  font-weight: 400 !important;
+}
+
+@mixin font-5 {
+  font-size: 15px !important;
+  line-height: 20px !important;
+  font-weight: 400 !important;
+}
+
+@mixin font-6 {
+  font-size: 28px !important;
+  line-height: 28px !important;
+  font-weight: 400 !important;
+}
+
+@mixin font-7 {
+  font-size: 17px !important;
+  line-height: 28px !important;
+  font-weight: 400 !important;
+}
+
+@mixin font-8 {
+  font-size: 13px !important;
+  line-height: 20px !important;
+  font-weight: 500 !important;
+}
+
+@mixin font-9 {
+  font-size: 20px !important;
+  line-height: 20px !important;
+  font-weight: 600 !important;
+}
+
+@mixin font-10 {
+  font-size: 13px !important;
+  line-height: 24px !important;
+  font-weight: 500 !important;
+}
+
+@mixin font-11 {
+  font-size: 17px !important;
+  line-height: 22px !important;
+  font-weight: 600 !important;
+}
+
+@mixin font-12 {
+  font-size: 15px !important;
+  line-height: 24px !important;
+  font-weight: 600 !important;
+}
